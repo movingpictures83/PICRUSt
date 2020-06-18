@@ -1,0 +1,2 @@
+Prefix plugins/PICRUSt/example
+Plugin PICRUSt inputfile parameters.txt outputfile .

@@ -1,0 +1,4 @@
+abundances	plugins/PICRUSt/example/test_input_sequence_abun.biom
+functions	plugins/PICRUSt/example/test_predicted_func.tsv.gz
+markers	plugins/PICRUSt/example/test_predicted_marker.tsv.gz
+max_nsti	2.0
