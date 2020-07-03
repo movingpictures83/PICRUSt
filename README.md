@@ -2,7 +2,8 @@
 # Language: C++
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: PICRUSt 1.1.4
 
 PluMA plugin to predict functional content in a set of sequences using marker genes with PICRUSt (Langille et al, 2013).
 
